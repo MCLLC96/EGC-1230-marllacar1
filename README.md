@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/MCLLC96/EGC-1230.svg?branch=master)](https://travis-ci.com/MCLLC96/EGC-1230) 
+
+
 Plataforma voto electrónico educativa
 =====================================
 
